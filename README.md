@@ -1,6 +1,5 @@
 # lazy_load
-Create lazy loade like Medium
-
+Medium 風の lazy load を作る
 # Install
 ```
 npm i
