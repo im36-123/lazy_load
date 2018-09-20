@@ -11,7 +11,7 @@ img {
   height: 100%;
   object-fit: cover;
   filter: blur(30px);
-  transition: filter 0.3s ease;
+  transition: filter 1s ease;
 }
 
 img.loaded {
